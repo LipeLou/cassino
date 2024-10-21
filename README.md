@@ -83,7 +83,6 @@ main. py
 **Ganho do Cassino**
 
 ![ganho cassino1](https://media.discordapp.net/attachments/791064779950653470/1298058997852803132/image.png?ex=67182f25&is=6716dda5&hm=6e4d2f57c4626fda29c8493b96f73cd930a2ceebf8a597c4800f3c5781a85883&=&format=webp&quality=lossless)
-
 R$16.000,00.
 
 **Ganho Jogadores** [30 players]
