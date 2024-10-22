@@ -148,7 +148,7 @@ R$40.000.000,00
 ![ganho jogadores4](https://media.discordapp.net/attachments/791064779950653470/1298060184853413940/image.png?ex=67183040&is=6716dec0&hm=d8aa6a0a661ab131ee4efeacd0e3373a303c7574d4f378fa569fe298affd5c46&=&format=webp&quality=lossless&width=965&height=583)
 Todos perderam, e perderam muito (em média **-R$45.000,00**).
 
-## Conclusão 
+# Conclusão 
 
 Com base nas simulações e em todos os dados, percebe-se que **quanto mais você joga, mais você perde**. Diante disso, destaca-se como todos os cassinos tem total controle sobre seus ganhos, podendo manipular psicologicamente, como também estatisticamente, baseando na analise de dados. Ou seja, jogos de azar são um vicio e os cassinos querem que você vicie, então para contornar a situação **não aposte em jogos de azar** ou **aposte com responsabilidade**.
 
