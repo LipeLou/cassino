@@ -75,10 +75,10 @@ Arquivo principal do programa, onde armazenei as classes **CasseNiquel** e **Pla
 
 ### Simulação 1
 
-     - JOGADORES_POR_DIA  = 30 
-     - APOSTAS_POR_DIA = 5 
-     - DIAS = 5
-     - VALOR_MAXIMO = 200
+     JOGADORES_POR_DIA  = 30 
+     APOSTAS_POR_DIA = 5 
+     DIAS = 5
+     VALOR_MAXIMO = 200
      
 **Ganho do Cassino**
 
@@ -94,10 +94,10 @@ Alguns com lucro porém a maioria perderam.
 
 ### Simulação 2
 
-     - JOGADORES_POR_DIA = 30 
-     - APOSTAS_POR_DIA = 5 
-     - DIAS = 10
-     - VALOR_MAXIMO = 200
+     JOGADORES_POR_DIA = 30 
+     APOSTAS_POR_DIA = 5 
+     DIAS = 10
+     VALOR_MAXIMO = 200
 
 **Ganho do Cassino**
 
@@ -113,10 +113,10 @@ Quase todos perderam, e os que ganharam não ganharam muito.
 
 ### Simulação 3
 
-     - JOGADORES_POR_DIA = 30
-     - APOSTAS_POR_DIA = 5
-     - DIAS = 30
-     - VALOR_MAXIMO = 20
+     JOGADORES_POR_DIA = 30
+     APOSTAS_POR_DIA = 5
+     DIAS = 30
+     VALOR_MAXIMO = 20
    
 **Ganho do Cassino**
 
@@ -132,10 +132,10 @@ Nenhum jogador ganhou.
 
 ### Simulação Final
 
-    - JOGADORES_POR_DIA = 1000
-    - APOSTAS_POR_DIA = 10
-    - DIAS =  180
-    - VALOR_MAXIMO = 200
+    JOGADORES_POR_DIA = 1000
+    APOSTAS_POR_DIA = 10
+    DIAS =  180
+    VALOR_MAXIMO = 200
     
 **Ganho do Cassino**
 
