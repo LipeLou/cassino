@@ -146,7 +146,7 @@ R$40.000.000,00
 **Ganho Jogadores** [1000 players]
 
 ![ganho jogadores4](https://media.discordapp.net/attachments/791064779950653470/1298060184853413940/image.png?ex=67183040&is=6716dec0&hm=d8aa6a0a661ab131ee4efeacd0e3373a303c7574d4f378fa569fe298affd5c46&=&format=webp&quality=lossless&width=965&height=583)
-Todos perderam, e perderam muito (**-R$45.000,00**).
+Todos perderam, e perderam muito (em média **-R$45.000,00**).
 
 ## Conclusão 
 
