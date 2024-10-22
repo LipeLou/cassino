@@ -155,7 +155,7 @@ Com base nas simulações e em todos os dados, percebe-se que **quanto mais voc�
 > Para saber mais: [Jogo responsável](https://ibjr.org/jogo-responsavel/)
 
 # Referências 💭
-<img src="https://www.svgrepo.com/show/13671/youtube.svg" height="10" alt="youtube logo"/> Youtube: 
+<img src="https://www.svgrepo.com/show/13671/youtube.svg" height="18" alt="youtube logo"/> Youtube: 
 
  - [Entenda a matemática por trás dos
    CASSINOS! - Universo Programado](https://www.youtube.com/watch?v=2jQuuCMRpZk) (recomendo)
