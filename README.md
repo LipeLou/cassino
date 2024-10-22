@@ -158,7 +158,7 @@ Com base nas simulações e em todos os dados, percebe-se que **quanto mais voc�
 Youtube: 
 
  - [Entenda a matemática por trás dos
-   CASSINOS! - Universo Programado](https://www.youtube.com/watch?v=2jQuuCMRpZk)
+   CASSINOS! - Universo Programado](https://www.youtube.com/watch?v=2jQuuCMRpZk) (recomendo)
    
  - [A VERDADE sobre o CASSINO ONLINE (Daniel Penin)- Cortes do
    Flow](https://www.youtube.com/watch?v=9mvXRemmlp8)
