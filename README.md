@@ -1,5 +1,5 @@
 # Por trás dos cassinos...
-![cassino](https://media.discordapp.net/attachments/791064779950653470/1298063630511902740/cassino-resort-brasil-capa.png?ex=67183376&is=6716e1f6&hm=76c5f7a02632cf40d50ba28f5a689b3ff1384b12405e36042fea68ad77effc8c&=&format=webp&quality=lossless&width=550&height=288)
+![cassino](/img/cassino.png)
 
 Cassinos são locais que oferecem jogos de azar, como máquinas **caça-níqueis**, **roleta** e **blackjack**, e são populares globalmente, proporcionando entretenimento e prêmios em dinheiro.
 Esse projeto é uma forma de mostrar a matemática por trás dos cassinos, e como eles manipulam as pessoas fazendo com que elas joguem cada vez mais, consequentemente, as fazendo perder mais dinheiro.
@@ -82,13 +82,13 @@ Arquivo principal do programa, onde armazenei as classes **CasseNiquel** e **Pla
      
 **Ganho do Cassino**
 
-![ganho cassino1](https://media.discordapp.net/attachments/791064779950653470/1298058997852803132/image.png?ex=67182f25&is=6716dda5&hm=6e4d2f57c4626fda29c8493b96f73cd930a2ceebf8a597c4800f3c5781a85883&=&format=webp&quality=lossless)
+![ganho cassino1](/img/ganho-cassino1.png)
 
 R$16.000,00.
 
 **Ganho Jogadores** [30 players]
 
-![ganho jogadores1](https://media.discordapp.net/attachments/791064779950653470/1298058910829383700/image.png?ex=67182f11&is=6716dd91&hm=00629086bca175a231b5a2f9bedf0ff9e5ca3e0b621f2bc95877680319e9e92f&=&format=webp&quality=lossless)
+![ganho jogadores1](/img/ganho-jogadores2.png)
 
 Alguns com lucro porém a maioria perderam.
 
