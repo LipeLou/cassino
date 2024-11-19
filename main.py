@@ -91,14 +91,18 @@ class CassaNiquel:
             player.balance -= amout_bet
     
     def play(self, amout_bet, player: Player, display= True):
-        ''' 
-        "Jogar", gira uma vez a maquina 
-        
-        Parameters:
-        amout_bet (float): Aposta
-        player (Player): Jogador
-        display (booleano): Ativa/Desativa a tela
         '''
+        Executa uma jogada no caça-níquel.
+
+        Este método simula uma rodada de jogo, gira a máquina e atualiza os saldos
+        do jogador e da máquina com base no resultado.
+
+        Atributos:
+            amout_bet (float): Valor da aposta.
+            player (Player): O objeto do jogador.
+            display (bool): Se True, mostra a animação de giro da máquina.
+        '''
+
         result = self._get_final_result()
         if display:
             self._display(amout_bet, result)
