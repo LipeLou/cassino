@@ -88,7 +88,7 @@ R$16.000,00.
 
 💲 **Ganho Jogadores** [30 players]
 
-![ganho jogadores1](/img/ganho-jogadores2.png)
+![ganho jogadores1](/img/ganho-jogadores1.png)
 
 Alguns com lucro porém a maioria perderam.
 
@@ -101,13 +101,13 @@ Alguns com lucro porém a maioria perderam.
 
 💲 **Ganho do Cassino**
 
-![ganho cassino2](https://media.discordapp.net/attachments/791064779950653470/1298055989567946752/image.png?ex=67182c58&is=6716dad8&hm=70529d30f8c377748681cc01f3a03aa3fdbcf120e50894c7dcf023ff45e279bc&=&format=webp&quality=lossless)
+![ganho cassino2](/img/ganho-cassino2.png)
 
 R$40.000,00.
 
 💲 **Ganho Jogadores** [30 players]
 
-![ganho jogadores2](https://media.discordapp.net/attachments/791064779950653470/1298056071130251264/image.png?ex=67182c6c&is=6716daec&hm=246ab11fab965cad406aa55c02edcca13d31b4dced6d32a8809d90072a004600&=&format=webp&quality=lossless)
+![ganho jogadores2](/img/ganho-jogadores2.png)
 
 Quase todos perderam, e os que ganharam não ganharam muito.
 
@@ -120,13 +120,13 @@ Quase todos perderam, e os que ganharam não ganharam muito.
    
 💲 **Ganho do Cassino**
 
-![ganho cassino 3](https://cdn.discordapp.com/attachments/791064779950653470/1298057131412553868/image.png?ex=67182d68&is=6716dbe8&hm=4c11ad58108d63547ae6312d97fe83ad9f378e2813a534482b124eedd1fe0495&=)
+![ganho cassino 3](/img/ganho-cassino3.png)
 
 R$100.000,00.
 
 💲 **Ganho Jogadores** [30 players]
 
-![ganho jogadores3](https://media.discordapp.net/attachments/791064779950653470/1298058110824349828/image.png?ex=67182e52&is=6716dcd2&hm=687f16f5c1acba74e8dabd33ab49bb2d61ae2e4e73137c23b128dc9eced66c0e&=&format=webp&quality=lossless)
+![ganho jogadores3](/img/ganho-jogadores3.png)
 
 Nenhum jogador ganhou.
 
@@ -139,13 +139,13 @@ Nenhum jogador ganhou.
     
 💲 **Ganho do Cassino**
 
-![ganho cassino4](https://media.discordapp.net/attachments/791064779950653470/1298059958587228241/image.png?ex=6718300a&is=6716de8a&hm=cd767694d9945342c8f87b4edd42589ef2fbcbe6e0fa6a0929a2806120f6ad54&=&format=webp&quality=lossless) 
+![ganho cassino4](/img/ganho-cassino4.png) 
 
 R$40.000.000,00
 
 💲 **Ganho Jogadores** [1000 players]
 
-![ganho jogadores4](https://media.discordapp.net/attachments/791064779950653470/1298060184853413940/image.png?ex=67183040&is=6716dec0&hm=d8aa6a0a661ab131ee4efeacd0e3373a303c7574d4f378fa569fe298affd5c46&=&format=webp&quality=lossless&width=965&height=583)
+![ganho jogadores4](/img/ganho-jogadores4.png)
 
 Todos perderam, e perderam muito (em média **-R$45.000,00**).
 
